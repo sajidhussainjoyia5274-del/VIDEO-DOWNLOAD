@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Smart Video Downloader</string>
+    <string name="channel_progress">Download progress</string>
+    <string name="channel_done">Completed downloads</string>
+</resources>
